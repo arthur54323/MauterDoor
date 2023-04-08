@@ -20,8 +20,8 @@ Test = 1
 game.SoundService.AmbientReverb = "City"
 game.Lighting.Ambience_Seek2.Enabled = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/Sprinting.txt"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/script/main/ScriptMultplaye?token=GHSAT0AAAAAACBFGCZTOZUVCHCCKY7STXCIZBRZBMQ"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/script/main/ScriptMultplaye?token=GHSAT0AAAAAACBFGCZTOZUVCHCCKY7STXCIZBRZBMQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/ScriptMultiPlayers"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/ScriptMultiPlayers"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/worldcuuuup/main/VictrolaRecreation.txt"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/5KT3tEkB"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/YdKuRiQ1"))()
