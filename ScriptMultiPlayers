@@ -14,8 +14,9 @@ local blink = false
 local clam = false
 
 firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'You Executed Mauter Mode.',true,2)
-wait(4)
+wait(5)
 firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'Credits to Arthurjoo4537#1855 (Scripter) Rae#5863 (Intro Maker) blox6fun#5187 (Tester)',true,1)
+wait(5)
 -- Custom Door Sounds
 loadstring(game:HttpGet("https://pastebin.com/raw/iAhTGdBh"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/6brG9uma"))()
@@ -111,7 +112,7 @@ coroutine.wrap(function()
           return
     end
         wait(0.3)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/script/main/Flasher?token=GHSAT0AAAAAACBFGCZSZ6JRCHK7E6WLSAVMZBRZAJA"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/FlasherSpawns"))()
         if mat == false then
         wait(3)
         mat = true
