@@ -454,7 +454,7 @@ entity.Debug.OnDeath = function()
     print("fuck.")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Jumpscares/main/ReboundJumpscare.txt"))()
 wait(1.8)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/BoundDie"))()
 end
 
 ------------------------
@@ -472,7 +472,7 @@ entity.Debug.OnDeath = function()
     print("fuck.")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Jumpscares/main/ReboundJumpscare.txt"))()
 wait(1.8)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/BoundDie"))()
 end
 
 ------------------------
@@ -490,7 +490,7 @@ entity.Debug.OnDeath = function()
     print("fuck.")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Jumpscares/main/ReboundJumpscare.txt"))()
 wait(1.8)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/BoundDie"))()
 end
 
 ------------------------
@@ -508,7 +508,7 @@ entity.Debug.OnDeath = function()
     print("fuck.")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Jumpscares/main/ReboundJumpscare.txt"))()
 wait(1.8)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/BoundDie"))()
 end
 
 ------------------------
@@ -526,7 +526,7 @@ entity.Debug.OnDeath = function()
     print("fuck.")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Jumpscares/main/ReboundJumpscare.txt"))()
 wait(1.8)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/GuidingLight/main/BoundDie.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/BoundDie"))()
 end
 
 ------------------------
