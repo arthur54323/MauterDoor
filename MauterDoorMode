@@ -21,6 +21,7 @@ Test = 1
 game.SoundService.AmbientReverb = "City"
 game.Lighting.Ambience_Seek2.Enabled = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/Sprinting.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/item.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/ScriptMultiPlayers"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/ScriptMultiPlayers"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/seekmodel"))()
