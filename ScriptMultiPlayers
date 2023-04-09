@@ -14,8 +14,8 @@ local blink = false
 local clam = false
 
 firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'You Executed Mauter Mode.',true,2)
-wait(1)
-firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'Idk more xd',true,1)
+wait(4)
+firesignal(game:GetService("ReplicatedStorage").EntityInfo.Caption.OnClientEvent, 'Credits to Arthurjoo4537#1855 (Scripter) Rae#5863 (Intro Maker) blox6fun#5187 (Tester)',true,1)
 -- Custom Door Sounds
 loadstring(game:HttpGet("https://pastebin.com/raw/iAhTGdBh"))()
 loadstring(game:HttpGet("https://pastebin.com/raw/6brG9uma"))()
@@ -41,7 +41,7 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 -- Creates and displays your custom achievement
 Achievements.Get({
     Title = "Backing In Few Doors.",
-    Desc = "wait.",
+    Desc = "what rebound doing here?",
     Reason = "Enconter and survive Rebound",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/ReboundBadgeV2.png?raw=true","boundbadge"),
 })
@@ -66,9 +66,9 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 -- Creates and displays your custom achievement
 Achievements.Get({
-    Title = "Staring Back.",
-    Desc = "Encounter Overseer Eyes.",
-    Reason = " ",
+    Title = "Eyes Back.",
+    Desc = "endless doors man",
+    Reason = "Encounter Overseer Eyes.",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/OverseerBadge.png?raw=true","seerbadge"),
 })
 end
@@ -102,7 +102,7 @@ end
     end
 end)()
 
--- Flasher
+-- Matcher
 coroutine.wrap(function()
     while true do
         wait(150)
@@ -119,9 +119,9 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 -- Creates and displays your custom achievement
 Achievements.Get({
-    Title = "No flash for me!",
-    Desc = "Encounter Flasher.",
-    Reason = " ",
+    Title = "Light Frickling!",
+    Desc = "stop breaking lights",
+    Reason = "Encounter Flasher.",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/MatchBadge.png?raw=true","matchbadge"),
 })
 end
