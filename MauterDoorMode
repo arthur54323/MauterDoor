@@ -1,6 +1,7 @@
 -- created by Arthurjoo4537 (Scripter)
 -- Gueste4843 (Music and Customs Entitys)
 -- Rae (Intro only bruh)
+-- blox6fun (Testers and Seek Model)
 
 if game:GetService("ReplicatedStorage"):FindFirstChild("Mauter") then
 
