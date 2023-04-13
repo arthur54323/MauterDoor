@@ -1,6 +1,6 @@
 local b = game.Players.LocalPlayer.PlayerGui.Noor.AltGuide
 local roast = b.Over
-local Red = b.Pink
+local Red = b.Blue
 b.HelpfulDialogue.Text = "You died to Rebound..."
 Red:Play()
 b.Visible = true
