@@ -59,7 +59,7 @@ function GetGitSound(GithubSnd,SoundName)
 	return sound
 end
 
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/fuq.lua"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/MauterDoorMode"))()
 
 -- Create entity
 
@@ -136,7 +136,7 @@ entity.Debug.OnEntityStartMoving = function(entityModel)
     print("Entity has started moving:", entityModel)
     game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
     
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/fuq.lua"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/MauterDoorMode"))()
 
 -- Create entity
 
@@ -213,7 +213,7 @@ entity.Debug.OnEntityStartMoving = function(entityModel)
     print("Entity has started moving:", entityModel)
     game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
     
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/fuq.lua"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/MauterDoorMode"))()
 
 -- Create entity
 
@@ -290,7 +290,7 @@ entity.Debug.OnEntityStartMoving = function(entityModel)
     print("Entity has started moving:", entityModel)
     game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
     
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/fuq.lua"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/MauterDoorMode"))()
 
 -- Create entity
 
@@ -367,7 +367,7 @@ entity.Debug.OnEntityStartMoving = function(entityModel)
     print("Entity has started moving:", entityModel)
     game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
     
-local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Endless-Doors-In-Doors/main/fuq.lua"))()
+local Creator = loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/MauterDoorMode"))()
 
 -- Create entity
 
