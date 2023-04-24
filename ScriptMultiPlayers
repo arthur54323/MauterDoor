@@ -57,7 +57,7 @@ game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
           return
     end
 wait(0.5)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/Entities/main/overseer.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Potato032/Entt/main/Greedy"))()
 if seer == false then
 wait(3)
 seer = true
