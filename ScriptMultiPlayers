@@ -66,8 +66,8 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 -- Creates and displays your custom achievement
 Achievements.Get({
     Title = "Eyes Open, Stare back.",
-    Desc = "what he doing here??",
-    Reason = "Encounter Greed.",
+    Desc = "its from mayhem mode, what he doing here??",
+    Reason = "Encounter Obsession.",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/OverseerBadge.png?raw=true","seerbadge"),
 })
 end
