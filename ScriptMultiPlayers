@@ -57,7 +57,7 @@ game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
           return
     end
 wait(0.5)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Potato032/Entt/main/Greedy"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HollowedOutMods/MayhemMode/main/ObfuscatedEntities/Obsession-obfuscated.lua"))()
 if seer == false then
 wait(3)
 seer = true
@@ -66,8 +66,8 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 -- Creates and displays your custom achievement
 Achievements.Get({
     Title = "Eyes Open, Stare back.",
-    Desc = "so and?",
-    Reason = "Encounter Overseer Eyes.",
+    Desc = "what he doing here??",
+    Reason = "Encounter Greed.",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/OverseerBadge.png?raw=true","seerbadge"),
 })
 end
