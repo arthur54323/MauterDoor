@@ -110,7 +110,7 @@ coroutine.wrap(function()
           return
     end
         wait(0.3)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/FlasherSpawns"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/HollowedOutMods/MayhemMode/main/ObfuscatedEntities/Threat-obfuscated.lua"))()
         if mat == false then
         wait(3)
         mat = true
@@ -118,9 +118,9 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 -- Creates and displays your custom achievement
 Achievements.Get({
-    Title = "Light Frickling!",
-    Desc = "stop breaking lights",
-    Reason = "Encounter Flasher.",
+    Title = "Coming Back.",
+    Desc = "man, do you have other entity EXPECT MAYHEM??",
+    Reason = "Encounter Threat.",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/MatchBadge.png?raw=true","matchbadge"),
 })
 end
