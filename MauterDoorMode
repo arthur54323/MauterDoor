@@ -20,7 +20,7 @@ Test.Parent = game:GetService("ReplicatedStorage")
 Test = 1
 game.SoundService.AmbientReverb = "City"
 game.Lighting.Ambience_Seek2.Enabled = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MuhXd/DoorSuff/main/OtherSuff/Sprint"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/sprint.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/ScriptMultiPlayers"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/arthur54323/MauterDoor/main/ScriptMultiPlayers"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/check78/worldcuuuup/main/VictrolaRecreation.txt"))()
