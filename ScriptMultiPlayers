@@ -110,7 +110,7 @@ coroutine.wrap(function()
           return
     end
         wait(0.3)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/HollowedOutMods/MayhemMode/main/ObfuscatedEntities/Threat-obfuscated.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BemboLikePizza/A-60-Entity/main/A-60%20Entity.lua"))()
         if mat == false then
         wait(3)
         mat = true
