@@ -118,9 +118,9 @@ local Achievements = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 -- Creates and displays your custom achievement
 Achievements.Get({
-    Title = "Coming Back.",
-    Desc = "man, do you have other entity EXPECT MAYHEM??",
-    Reason = "Encounter Threat.",
+    Title = "Corming or No.",
+    Desc = "Yo this is A60??",
+    Reason = "Encounter and Survive an Rare Entity called A-60.",
     Image = GitPNG("https://github.com/check78/worldcuuuup/blob/main/MatchBadge.png?raw=true","matchbadge"),
 })
 end
